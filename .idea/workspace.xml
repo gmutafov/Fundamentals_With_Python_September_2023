@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5fecb2f-3564-4d9c-a56c-d0efb22efb69" name="Changes" comment="">
+    <list default="true" id="a5fecb2f-3564-4d9c-a56c-d0efb22efb69" name="Changes" comment="Exercises">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists_Basics_Lab/Courses.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists_Basics_Lab/Courses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists_Basics_Lab/List_Statistics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists_Basics_Lab/List_Statistics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists_Basics_Lab/Numbers_Filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists_Basics_Lab/Numbers_Filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists_Basics_Lab/Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists_Basics_Lab/Search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists_Basics_Lab/Strange_Zoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists_Basics_Lab/Strange_Zoo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +43,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Patterns">
-    <configuration name="Even_Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Numbers_Filter">
+    <configuration name="Courses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_With_Python_September_2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,11 +52,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic Syntax, Conditional Statements and Loops - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists_Basics_Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic Syntax, Conditional Statements and Loops - Lab/Even_Numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists_Basics_Lab/Courses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -60,7 +65,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Number_between_1_and_100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="List_Statistics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_With_Python_September_2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic Syntax, Conditional Statements and Loops - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists_Basics_Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic Syntax, Conditional Statements and Loops - Lab/Number_between_1_and_100.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists_Basics_Lab/List_Statistics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Patterns" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Numbers_Filter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_With_Python_September_2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic Syntax, Conditional Statements and Loops - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists_Basics_Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic Syntax, Conditional Statements and Loops - Lab/Patterns.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists_Basics_Lab/Numbers_Filter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Shopping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_With_Python_September_2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +115,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic Syntax, Conditional Statements and Loops - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists_Basics_Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic Syntax, Conditional Statements and Loops - Lab/Shopping.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists_Basics_Lab/Search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals_With_Python_September_2023" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists_Basics_Lab" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists_Basics_Lab/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,10 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Patterns" />
-        <item itemvalue="Python.Shopping" />
-        <item itemvalue="Python.Number_between_1_and_100" />
-        <item itemvalue="Python.Even_Numbers" />
+        <item itemvalue="Python.Numbers_Filter" />
+        <item itemvalue="Python.Search" />
+        <item itemvalue="Python.List_Statistics" />
+        <item itemvalue="Python.Courses" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -141,6 +168,19 @@
       <option name="presentableId" value="Default" />
       <updated>1695587004202</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercises">
+      <option name="closed" value="true" />
+      <created>1695826447320</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695826447320</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercises" />
   </component>
 </project>
