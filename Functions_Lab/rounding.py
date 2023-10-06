@@ -1,5 +1,5 @@
 numbers = input().split()
-numbers_as_float = []
+rounded_numbers = []
 for number in numbers:
-    numbers_as_float.append(abs(float(number)))
-print(numbers_as_float)
+    rounded_numbers.append(round(float(number)))
+print(rounded_numbers)

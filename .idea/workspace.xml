@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5fecb2f-3564-4d9c-a56c-d0efb22efb69" name="Changes" comment="Exercises">
+      <change beforePath="$PROJECT_DIR$/.idea/Fundamentals_With_Python_September_2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Fundamentals_With_Python_September_2023.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions_Lab/absolute_value.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions_Lab/absolute_value.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions_Lab/calculate_rectangle_area.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions_Lab/calculate_rectangle_area.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions_Lab/calculations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions_Lab/calculations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions_Lab/grades.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions_Lab/grades.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions_Lab/orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions_Lab/orders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions_Lab/repeat_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions_Lab/repeat_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions_Lab/rounding.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions_Lab/rounding.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +34,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2VrGtnWcm6jM7F8qCLwvWC15MDx" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -33,12 +45,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Python.calculations">
+}]]></component>
+  <component name="RunManager" selected="Python.rounding">
+    <configuration name="calculate_rectangle_area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals_With_Python_September_2023" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions_Lab" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions_Lab/calculate_rectangle_area.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="calculations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_With_Python_September_2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,28 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="car_race" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fundamentals_With_Python_September_2023" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List_Basics_More_Exercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_Basics_More_Exercises/car_race.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="grades" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="orders" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_With_Python_September_2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +107,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions_Lab/grades.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions_Lab/orders.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="messaging" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="repeat_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_With_Python_September_2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List_Basics_More_Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions_Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_Basics_More_Exercises/messaging.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions_Lab/repeat_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.calculations" />
-        <item itemvalue="Python.grades" />
         <item itemvalue="Python.rounding" />
-        <item itemvalue="Python.car_race" />
-        <item itemvalue="Python.messaging" />
+        <item itemvalue="Python.orders" />
+        <item itemvalue="Python.repeat_string" />
+        <item itemvalue="Python.calculate_rectangle_area" />
+        <item itemvalue="Python.calculations" />
       </list>
     </recent_temporary>
   </component>

@@ -11,9 +11,9 @@ def solve(operator, a, b):
     return result
 
 
-operator = input()
-a = int(input())
-b = int(input())
-result = solve(operator, a, b)
+input_operator = input()
+first_num = int(input())
+second_num = int(input())
+result = solve(input_operator, first_num, second_num)
 
 print(result)
