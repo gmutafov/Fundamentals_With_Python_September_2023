@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5fecb2f-3564-4d9c-a56c-d0efb22efb69" name="Changes" comment="Exercises">
-      <change afterPath="$PROJECT_DIR$/Functions_Exercise/add_and_subtract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions_Exercise/characters_in_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions_Exercise/even_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions_Exercise/factorial_division.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions_Exercise/loading_bar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions_Exercise/min_max_and_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions_Exercise/odd_and_even_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions_Exercise/palindrome_integers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions_Exercise/password_validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions_Exercise/perfect_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions_Exercise/smallest_of_three_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions_Exercise/sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a5fecb2f-3564-4d9c-a56c-d0efb22efb69" name="Changes" comment="Exercises" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -244,7 +230,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696577368249</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Exercises">
+      <option name="closed" value="true" />
+      <created>1696619037928</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696619037928</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
