@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5fecb2f-3564-4d9c-a56c-d0efb22efb69" name="Changes" comment="Exercises">
-      <change afterPath="$PROJECT_DIR$/Lists_Advanced_Exercise/anonymous_threat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists_Advanced_Exercise/decipher_this.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists_Advanced_Exercise/electron_distribution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists_Advanced_Exercise/groups_of_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists_Advanced_Exercise/next_version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists_Advanced_Exercise/number_classification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists_Advanced_Exercise/office_chairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists_Advanced_Exercise/pokemon_don't_go.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists_Advanced_Exercise/which_are_in.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists_Advanced_Exercise/word_filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a5fecb2f-3564-4d9c-a56c-d0efb22efb69" name="Changes" comment="Exercises" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -290,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697181641472</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Exercises">
+      <option name="closed" value="true" />
+      <created>1697222729296</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1697222729296</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
