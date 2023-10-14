@@ -1,18 +1,23 @@
-numbers = input().split()
-numbers_as_integers = []
 
-for number in numbers:
-    numbers_as_integers.append(int(number))
+numbers = list(map(int, input().split()))
+topNumbers = []
 
-avg_num = int(sum(numbers_as_integers) / len(numbers_as_integers))
-if len(numbers_as_integers) >= 5:
+if len(numbers) < 5:
+    print("No")
+    exit()
 
-    biggest_numbers = []
-    for i in numbers_as_integers:
-        if i > avg_num:
-            biggest_numbers.append(str(i))
-    biggest_numbers = sorted(biggest_numbers, reverse=True)[:5]
-    result = ' '.join(biggest_numbers)
-    print(result)
+sumNum = sum(numbers)
+averageNumIs = sumNum * 1.00 / len(numbers)
+
+for currentNum in numbers:
+    if currentNum > averageNumIs:
+        topNumbers.append(currentNum)
+
+if len(topNumbers) > 5:
+    topNumbers.sort(reverse=True)
+    for num in topNumbers[:5]:
+        print(num, end=" ")
 else:
-    print('No')
+    topNumbers.sort(reverse=True)
+    for num in topNumbers:
+        print(num, end=" ")
