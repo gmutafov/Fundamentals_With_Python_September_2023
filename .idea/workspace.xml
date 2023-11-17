@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5fecb2f-3564-4d9c-a56c-d0efb22efb69" name="Changes" comment="Exercises">
-      <change afterPath="$PROJECT_DIR$/Regular_Expressions_Exercise/capture_the_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_Expressions_Exercise/extract_emails.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_Expressions_Exercise/find_occurrences_of_word_in_sentence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_Expressions_Exercise/find_variable_names_in_sentences.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a5fecb2f-3564-4d9c-a56c-d0efb22efb69" name="Changes" comment="Exercises" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -554,7 +548,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700154370464</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Exercises">
+      <option name="closed" value="true" />
+      <created>1700242261609</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1700242261609</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
